@@ -14,7 +14,6 @@ FreeIPCC： Free call center, Free contact center 开源呼叫中心系统!!!
 8.	云原生架构：采用云原生架构设计，支持快速部署、弹性扩展与自动运维，降低用户的IT成本与维护难度，同时保证系统的高可用性与安全性。
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者。
-![image](https://github.com/user-attachments/assets/a4e192e3-f411-4ec2-8da0-93281248aa7a)
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
