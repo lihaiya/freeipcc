@@ -1,11 +1,16 @@
-呼叫中心，客服系统，话务系统，在线客服，开源呼叫中心系统FreeIPCC： Free call center, Free contact center 开源呼叫中心系统!!!
 
-2024.11.11，最新链接，enjoy：
-话务/在线客服：(demo123/demo123@Abc)
+呼叫中心，呼叫中心系统，客服系统，工单系统，智能外呼，智能电话外呼，话务系统，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统FreeIPCC： Free call center, Free contact center 开源呼叫中心系统!!!
+freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！
+
+官方WeChat:freeipcc！！！
+
+2024.11.13，最新链接，enjoy：
+
+1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
-
-工单：(demo/123456)
+2，工单：(demo/123456)
 http://118.25.192.13:80
+
 
 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 愿景：
