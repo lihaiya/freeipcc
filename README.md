@@ -4,10 +4,11 @@ freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！
 
 官方WeChat:freeipcc！！！
 
-2024.11.13，最新链接，enjoy：
+2024.11.14，最新链接，enjoy：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
+
 2，工单：(demo/123456)
 http://118.25.192.13:80
 
