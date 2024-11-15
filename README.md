@@ -1,6 +1,8 @@
 
 呼叫中心，呼叫中心系统，客服系统，工单系统，智能外呼，智能电话外呼，话务系统，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统FreeIPCC： Free call center, Free contact center 开源呼叫中心系统!!!
-freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！
+
+呼叫中心，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统!!!
+FreeIPCC：free call center, free contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！
 
 官方WeChat:freeipcc！！！
 
