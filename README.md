@@ -4,7 +4,7 @@ FreeIPCC：free call center, free contact center,freeswitch,opensips,LLM,TTS,ASR
 
 官方WeChat:freeipcc！！！
 
-2024.11.15，最新链接如下，enjoy：
+2024.11.16，最新链接如下，enjoy：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
