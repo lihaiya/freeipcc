@@ -6,7 +6,7 @@ LLM大模型，LangChain，RAG检索模块！！！
 
 官方WeChat:freeipcc！！！
 
-2024.11.18，最新链接如下，enjoy：
+2024.11.19，最新链接如下，enjoy：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
