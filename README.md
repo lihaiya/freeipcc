@@ -72,7 +72,6 @@ Centro de llamadas, sistema de centro de llamadas, sistema de telefonía, sistem
 越南语
 Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống điện thoại, hệ thống dịch vụ khách hàng, hệ thống đơn công việc, gọi đi thông minh, hệ thống gọi đi thông minh, hệ thống trung tâm cuộc gọi, trí tuệ nhân tạo, robot nhận cuộc gọi, robot mô hình lớn, gọi đi điện thoại thông minh, hệ thống trung tâm cuộc gọi nguồn mở, gọi đi điện thoại, trung tâm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến, mô hình lớn, hệ thống trung tâm cuộc gọi nguồn mở!!!
 
-请注意，虽然我已尽力确保翻译的准确性，但由于语言的复杂性和文化差异，某些表达可能在特定语境下需要微调。
 
 关于源码与付费：
 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
