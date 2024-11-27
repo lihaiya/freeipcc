@@ -4,7 +4,13 @@ FreeIPCC：free call center, free contact center,freeswitch,opensips,LLM,langcha
 
 LLM大模型，LangChain，RAG检索模块！！！！
 
+
+How to contact us：
 官方WeChat:freeipcc！！！
+Skype：https://join.skype.com/invite/rVbQH1igkQwV
+Skype UserID：live:.cid.fedb411de91d9b
+Email:leehear@gmail.com
+
 
 2024.11.26，最新链接如下，enjoy：
 
@@ -42,6 +48,27 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+
+
+英语
+Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
+
+日语
+コールセンター、コールセンターシステム、電話システム、カスタマーサービスシステム、作業指示システム、インテリジェントアウトバウンド、インテリジェントアウトバウンドシステム、コールセンターシステム、人工知能、インバウンドロボット、大型モデルロボット、インテリジェントアウトバウンド通話、オープンソースコールセンターシステム、アウトバウンド通話、カスタマーサービスセンター、オンラインカスタマーサービス、大型モデル、オープンソースコールセンターシステム！！！
+
+葡萄牙语
+Call center, sistema de call center, sistema de telefonia, sistema de atendimento ao cliente, sistema de trabalho, chamada inteligente saída, sistema de chamada inteligente saída, sistema de call center, inteligência artificial, robô de entrada, robô de grande modelo, chamada telefônica inteligente saída, sistema de call center open-source, chamada telefônica saída, centro de atendimento, atendimento online, grande modelo, sistema de call center open-source!!!
+
+西班牙语
+Centro de llamadas, sistema de centro de llamadas, sistema de telefonía, sistema de atención al cliente, sistema de órdenes de trabajo, llamadas salientes inteligentes, sistema de llamadas salientes inteligentes, sistema de centro de llamadas, inteligencia artificial, robot de entrada, robot de gran modelo, llamadas telefónicas salientes inteligentes, sistema de centro de llamadas de código abierto, llamadas telefónicas salientes, centro de atención, atención en línea, gran modelo, sistema de centro de llamadas de código abierto!!!
+
+韩语
+콜센터, 콜센터 시스템, 전화 시스템, 고객 서비스 시스템, 작업 시스템, インテリジェント 아ウト바운드, インテリジェント 아ウトバウンド 시스템, 콜센터 시스템, 인공지능, ఇన్‌బౌಂಡ್ 로봇, 대규모 로봇, インテリジェント 아ウಟ್바ウンド 전화, 오픈소스 콜센터 시스템, 아ウಟ್바ウンド 전화, 고객 서비스 센터, 온라인 고객 서비스, 대규모, 오픈소스 콜센터 시스템!!!
+
+越南语
+Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống điện thoại, hệ thống dịch vụ khách hàng, hệ thống đơn công việc, gọi đi thông minh, hệ thống gọi đi thông minh, hệ thống trung tâm cuộc gọi, trí tuệ nhân tạo, robot nhận cuộc gọi, robot mô hình lớn, gọi đi điện thoại thông minh, hệ thống trung tâm cuộc gọi nguồn mở, gọi đi điện thoại, trung tâm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến, mô hình lớn, hệ thống trung tâm cuộc gọi nguồn mở!!!
+
+请注意，虽然我已尽力确保翻译的准确性，但由于语言的复杂性和文化差异，某些表达可能在特定语境下需要微调。
 
 关于源码与付费：
 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
