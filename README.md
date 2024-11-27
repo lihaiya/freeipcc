@@ -5,11 +5,12 @@ FreeIPCC：free call center, free contact center,freeswitch,opensips,LLM,langcha
 LLM大模型，LangChain，RAG检索模块！！！！
 
 
-📫 How to reach me:
-官方WeChat:freeipcc！！！
-Skype：https://join.skype.com/invite/rVbQH1igkQwV
-Skype UserID：live:.cid.fedb411de91d9b
-Email:leehear@gmail.com
+- 📫 How to reach us:
+- 官方WeChat:freeipcc！！！
+- Skype：https://join.skype.com/invite/rVbQH1igkQwV
+- Skype UserID：live:.cid.fedb411de91d9b
+- Email:leehear@gmail.com
+
 2024.11.26，最新链接，enjoy😄😄：
 
 
