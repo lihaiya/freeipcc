@@ -7,7 +7,7 @@ LLM大模型，LangChain，RAG检索模块！！！！！
 - 官方WeChat:freeipcc！！！！
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com
+- Email:leehear@gmail.com 
 
 2024.12.05，最新链接如下，enjoy😄😄😄：
 
