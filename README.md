@@ -3,13 +3,13 @@ callcenter,contactcenter,call center,contact center,Call,IPCC,Voice,AI,Codec,fre
 LLM大模型，LangChain，RAG检索模块！！！！！
 
 
-- 📫 How to reach us:
+- 📫 How to reach us 📫:
 - 官方WeChat:freeipcc！！！！
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-2024.12.05，最新链接如下，enjoy😄😄😄：
+2024.12.06，最新链接如下，enjoy😄😄😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
