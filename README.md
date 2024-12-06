@@ -3,13 +3,13 @@ callcenter,contactcenter,call center,contact center,Call,IPCC,Voice,AI,Codec,fre
 LLM大模型，LangChain，RAG检索模块！！！！！
 
 
-##- 📫 How to reach us 📫:
+## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc！！！！
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-##2024.12.06，最新链接如下，enjoy😄😄😄：
+## 2024.12.06，最新链接如下，enjoy😄😄😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -33,7 +33,7 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者。
 
-##界面截图
+## 界面截图
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
@@ -47,7 +47,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-##其它语言
+## 其它语言
 英语
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
 
@@ -67,6 +67,6 @@ Centro de llamadas, sistema de centro de llamadas, sistema de telefonía, sistem
 Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống điện thoại, hệ thống dịch vụ khách hàng, hệ thống đơn công việc, gọi đi thông minh, hệ thống gọi đi thông minh, hệ thống trung tâm cuộc gọi, trí tuệ nhân tạo, robot nhận cuộc gọi, robot mô hình lớn, gọi đi điện thoại thông minh, hệ thống trung tâm cuộc gọi nguồn mở, gọi đi điện thoại, trung tâm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến, mô hình lớn, hệ thống trung tâm cuộc gọi nguồn mở!!!
 
 
-##关于源码与付费：
+## 关于源码与付费：
 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
 
