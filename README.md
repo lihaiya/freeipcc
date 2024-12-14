@@ -2,7 +2,7 @@ CallCenter,ContactCenter,Call Center,Contact Center,Call,IPCC,Voice,AI,Codec,fre
 
 LLM大模型，LangChain，RAG检索模块！！！
 
-
+## 😄😄😄 完整性:前端、后端、数据库，齐全！
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
