@@ -3,6 +3,8 @@ CallCenter,ContactCenter,Call Center,Contact Center,Call,IPCC,Voice,AI,Codec,fre
 LLM大模型，LangChain，RAG检索模块！！！！
 
 ## 😄😄 完整性:前端、后端、数据库，齐全！！！
+致力于成为： 1，大模型呼叫中心系统、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
+
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
