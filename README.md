@@ -71,6 +71,12 @@ Centro de llamadas, sistema de centro de llamadas, sistema de telefonía, sistem
 Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống điện thoại, hệ thống dịch vụ khách hàng, hệ thống đơn công việc, gọi đi thông minh, hệ thống gọi đi thông minh, hệ thống trung tâm cuộc gọi, trí tuệ nhân tạo, robot nhận cuộc gọi, robot mô hình lớn, gọi đi điện thoại thông minh, hệ thống trung tâm cuộc gọi nguồn mở, gọi đi điện thoại, trung tâm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến, mô hình lớn, hệ thống trung tâm cuộc gọi nguồn mở!!!
 
 
-## 关于源码与付费：
-当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训！
+## 关于源码、付费、许可：
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
+
+We adopt a simple terms of license agreement:
+After purchasing the source code, you can use it for personal or commercial purposes. Once you have acquired the source code, we will arrange for a source code training session for you.
+
+Мы используем простые условия лицензионного соглашения:
+После оплаты и покупки исходного кода, вы можете использовать его как для личных, так и для коммерческих целей. После покупки исходного кода мы организуем для вас тренинг по использованию исходного кода.
 
