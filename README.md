@@ -3,7 +3,7 @@ AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCe
 LLM大模型，LangChain，RAG检索模块！！！！
 
 ## 😄完整性:前端、后端、数据库，齐全！！！
-## 关于源码、付费、许可：
+## 😄关于源码、付费、许可：
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
 ## 😄持续性:2014年至今持续迭代
 致力于成为：
