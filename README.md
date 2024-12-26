@@ -42,9 +42,10 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
 ![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
 ![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/44a4d427-fb56-4bf2-967e-c863e296edd5)
+![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
+![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
+![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
 ![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-
 ![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
