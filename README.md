@@ -1,4 +1,4 @@
-AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCenter,ContactCenter,opensips,LLM,langchain,RAG搜索模块,TTS,ASR,NLP,Chabot,freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound,呼叫中心，大模型呼入机器人，大模型呼出机器人，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，呼叫，呼入，呼出，智能外呼系统，呼叫中心系统，人工智能，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统(😄付费后交付源码😄),Call center,call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，LLM大模型，LangChain，RAG检索模块，联络中心，客服中心！
+AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCenter,ContactCenter,opensips,LLM,langchain,RAG搜索模块,TTS,ASR,NLP,Chabot,freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound,呼叫中心，大模型呼入机器人，大模型呼出机器人，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，呼叫，呼入，呼出，智能外呼系统，呼叫中心系统，人工智能，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，开源呼叫中心系统(😄付费后交付源码😄),Call center,call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，LLM大模型，LangChain，RAG检索模块，联络中心，客服中心！！！
 
 ## 😄完整性:前端、后端、数据库，齐全！
 ## 😄持续性:2014年至今持续迭代
@@ -11,7 +11,7 @@ AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCe
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.01.27最新demo链接enjoy😄：
+## 2025.01.28最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -52,7 +52,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 😄关于源码、付费、许可（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）：
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 ## 其它语言
 英语
