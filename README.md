@@ -2,7 +2,7 @@ AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCe
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
-## 😄持续性:2014年至今持续迭代
+## 😄持续性：2014年至今持续迭代，团队成员来自Cisco、Avaya、大唐电信、华为等，长期主义，经验丰富！
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
@@ -12,7 +12,7 @@ AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCe
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.02.06最新demo链接enjoy😄：
+## 2025.02.07最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
