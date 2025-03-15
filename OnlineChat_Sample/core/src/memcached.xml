@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memcached>
+    <client name="mclient0" compressEnable="true" defaultEncoding="UTF-8" socketpool="pool0">
+        <errorHandler>com.alisoft.xplatform.asf.cache.memcached.MemcachedErrorHandler</errorHandler>
+    </client>
+    <client name="mclient0-bak" compressEnable="true" defaultEncoding="UTF-8" socketpool="pool0-bak">
+        <errorHandler>com.alisoft.xplatform.asf.cache.memcached.MemcachedErrorHandler</errorHandler>
+    </client>
+    <socketpool name="pool0" failover="true" initConn="5" minConn="5" maxConn="250" maintSleep="30"
+        nagle="false" socketTO="3000" aliveCheck="true">
+       <servers>127.0.0.1:11211</servers>
+    </socketpool>
+    <socketpool name="pool0-bak" failover="true" initConn="5" minConn="5" maxConn="250" maintSleep="30"
+        nagle="false" socketTO="3000" aliveCheck="true">
+        <servers>127.0.0.1:11211</servers> 
+    </socketpool>
+    <cluster name="cluster1" mode="active">
+        <memCachedClients>mclient0</memCachedClients>
+    </cluster>
+</memcached>

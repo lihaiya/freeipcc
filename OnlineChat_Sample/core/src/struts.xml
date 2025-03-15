@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<constant name="struts.objectFactory" value="spring"></constant>
+	<constant name="struts.custom.i18n.resources" value="messageResource" />
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+	<constant name="struts.devMode" value="false" />
+	<constant name="struts.ui.theme" value="simple" />
+	<constant name="struts.ui.templateDir" value="template" />
+	<constant name="struts.date.format" value="yyyy-MM-dd HH:mm:ss" />
+	<constant name="struts.configuration.xml.reload" value="false" />
+	<constant name="struts.multipart.maxSize" value="1099511627776" />
+	<constant name="struts.convention.classes.reload" value="true" />
+	<constant name="struts.convention.package.locators" value="action,actions,struts,struts2,web" />		
+	<constant name= "struts.ui.theme " value= "mytheme" />
+	<constant name="struts.codebehind.pathPrefix" value="/pages/" />
+	<constant name="struts.configuration.classpath.defaultParentPackage" value="default" />
+
+	<package name="default" extends="struts-default">
+		<interceptors>
+			<interceptor name="authority" class="com.sxx.jcc.core.intereptor.AuthorityInterceptor" />
+			<interceptor-stack name="auctionStack">
+				<interceptor-ref name="defaultStack" />
+				<interceptor-ref name="authority" />
+			</interceptor-stack>
+		</interceptors>
+
+		<default-interceptor-ref name="auctionStack" />
+		<global-results>
+			<!-- 下面定义的结果对所有的Action都有效 -->
+			<result name="exception" type="chain">exceptionAction</result>
+			<result name="login" type="redirect">/redirect.jsp</result>
+		</global-results>
+		<global-exception-mappings>
+			<!-- 指Action抛出Exception异常时，转入名为exception的结果。 -->
+			<exception-mapping exception="java.lang.Exception" result="exception" />
+			<exception-mapping exception="org.hibernate.HibernateException" result="exception" />
+		</global-exception-mappings>
+	</package>
+	
+</struts>
