@@ -4,10 +4,11 @@ AI Call Center,Contact Center,GPT,LLM,Call,IPCC,Voice,AI,Codec,freeswitch,CallCe
 LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等！
 LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
 
+# 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
-## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
+## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
