@@ -8,18 +8,18 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## - 📫 How to reach us 📫:
-- 官方WeChat:freeipcc
-- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">Click WhatsApp to Chat</a>
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
-- Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+## 📫 How to reach us 📫:
+- 官方WeChat01:freeipcc
+- 官方WeChat02:freeaicc
+- Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
+- Email:leehear@gmail.com
 
-## 2025.06.11最新demo链接enjoy😄：
+## 2025.06.12最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
