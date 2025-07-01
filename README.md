@@ -22,7 +22,7 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 <img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="260" height="260">
 <img src="https://github.com/user-attachments/assets/cab318c8-a7d5-4049-af90-0d5965813787" width="260" height="260">
 
-## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
+## 😄思科呼叫中心、Avaya呼叫中心，国产平替，支持信创；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 
 ## 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
@@ -31,7 +31,7 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.06.30最新demo链接enjoy😄：
+## 2025.07.01最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
