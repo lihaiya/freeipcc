@@ -5,6 +5,10 @@ LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可
 LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+
+## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
+![image](https://github.com/user-attachments/assets/da9ac236-e43b-4b87-8c2a-22068f2a91c8)
+
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
@@ -31,7 +35,7 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.07.04最新demo链接enjoy😄：
+## 2025.07.05最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
