@@ -35,14 +35,6 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.07.10最新demo链接enjoy😄：
-
-1，话务/在线客服chatbot：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
-
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/c66ff435-a2ef-44f5-9fa5-9923520419bb)
 
@@ -66,12 +58,8 @@ http://124.220.48.38:80
 
 ## 界面截图
 ![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
-![02-freeipcc14](https://github.com/user-attachments/assets/47764469-de7b-46ba-8626-654a90361b24)
-![03-freeipcc04](https://github.com/user-attachments/assets/43bc3b1b-9dc8-4bfc-8d0a-61e3cea7ac2e)
-![04-freeipcc08](https://github.com/user-attachments/assets/18359c61-ee39-4e51-94e5-629855095ea3)
-![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
+
 ![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
-![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
 ![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
 ![freeipcc03-FreeIPCC](https://github.com/user-attachments/assets/90ac9049-33ac-4425-a8ee-10730f637272)
 ![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
@@ -123,9 +111,6 @@ After purchasing the source code, you can use it for personal or commercial purp
 
 Мы используем простые условия лицензионного соглашения:
 После оплаты и покупки исходного кода, вы можете использовать его как для личных, так и для коммерческих целей. После покупки исходного кода мы организуем для вас тренинг по использованию исходного кода.
-## 🤔工单系统功能列表
 
-![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
-![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
