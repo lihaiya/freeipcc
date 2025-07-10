@@ -57,18 +57,13 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ## 界面截图
-![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
-
-![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
-![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
-![freeipcc03-FreeIPCC](https://github.com/user-attachments/assets/90ac9049-33ac-4425-a8ee-10730f637272)
-![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
-![11-freeipcc06](https://github.com/user-attachments/assets/7eaafde5-5e98-40b2-a2d7-ea4d5b6ab271)
-![12-freeipcc07](https://github.com/user-attachments/assets/109edd2a-ff4b-408f-914e-41a9da42f169)
-![13-freeipcc10](https://github.com/user-attachments/assets/a3d1ae39-dea7-43be-9931-bd49578bdd71)
-![14-freeipcc11](https://github.com/user-attachments/assets/8bd2e7b4-727d-494a-a04a-419d19e7682f)
-![15-freeipcc12](https://github.com/user-attachments/assets/24ebd0a3-bc4c-43fc-a108-a63dd8b53ea5)
-![16-freeipcc13](https://github.com/user-attachments/assets/160c595a-0cf0-465a-99bf-a8e2afea9e6d)
+![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
+![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
+![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
+![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
+![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
+![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
