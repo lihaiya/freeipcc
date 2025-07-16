@@ -13,15 +13,13 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）;三甲医院、中国顶级高校、政府公共部门，都有案例！
+## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）;
 
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
-<img src="https://github.com/user-attachments/assets/0b707a64-d6ad-44e9-9bce-69fff48f0b48" width="260" height="260">
-<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="260" height="260">
-<img src="https://github.com/user-attachments/assets/cab318c8-a7d5-4049-af90-0d5965813787" width="260" height="260">
+## 😄大客户案例：三甲医院、中国顶级高校、政府公共部门，都有案例！
 
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替，支持信创；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 
