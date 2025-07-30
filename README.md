@@ -1,5 +1,5 @@
 # freeipcc
-Call Center，Contact Center，呼叫中心，客服系统，工单系统，智能外呼，大模型呼叫中心，RAG搜索模块；LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型等！
+Call Center，Contact Center，呼叫中心，客服系统，工单系统，智能外呼，大模型呼叫中心，智能呼叫中心，RAG搜索模块；LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型等！
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
