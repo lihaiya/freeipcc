@@ -1,0 +1,120 @@
+.chat {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  height: 100%;
+  touch-action: manipulation;
+  display: flex;
+  flex-direction: column;
+  --tw-bg-opacity: 1;
+  background-color: rgba(255,255,255,var(--tw-bg-opacity));
+}
+
+.chat-container_package {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  height: 100%;
+  touch-action: manipulation;
+  display: flex;
+  flex-direction: column
+}
+
+/** chat-banner **/
+.chat-banner {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 52px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  border-bottom: 1px solid rgb(227, 229, 230);
+
+  p {
+    margin: 0;
+    background-color: #fff;
+  }
+}
+
+.chat-container {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  background-color: #fff;
+  overflow: hidden;
+  touch-action: manipulation;
+
+  .chat-history {
+    flex: auto 1 1;
+    box-sizing: border-box;
+    display: flex;
+    padding: 16px 4px 20px;
+    max-width: 100vw;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  .quick-message {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px 16px 0;
+    position: relative;
+  }
+
+  .MessageItem {
+    width: 100%;
+
+    .chat-loading {
+      position: absolute;
+      left: 50%;
+      padding-top: 50px;
+      text-align: center;
+    }
+
+    .messageItem-container {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      p {
+        margin: 0;
+        padding: 6px;
+        background-color: #fff;
+        border-radius: 4px;
+      }
+    }
+  }
+
+  /** operator **/
+  .chat-input-operator {
+    display: flex;
+    height: 50px;
+    margin-bottom: 12px;
+    justify-content: center;
+    background: #fff;
+    border-top: 1px solid rgb(227, 229, 230);
+    flex-direction: column;
+
+    input {
+      outline: none;
+      flex: 1;
+
+      &:focus {
+        box-shadow: none;
+      }
+    }
+
+    .chat-send {
+      display: flex;
+      justify-content: flex-end;
+      margin: 8px 16px;
+    }
+  }
+}
