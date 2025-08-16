@@ -27,6 +27,7 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - 官方WeChat03:easyaicc
+- 官方WeChat04:maxaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
