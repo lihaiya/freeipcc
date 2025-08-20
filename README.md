@@ -31,7 +31,7 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+注意：如果页面打不开，是因为测试地址一发布就会遭受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/c66ff435-a2ef-44f5-9fa5-9923520419bb)
 
 ## 开发语言：Java Python为主
