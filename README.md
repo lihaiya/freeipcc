@@ -61,6 +61,7 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
+<img width="1799" height="618" alt="image" src="https://github.com/user-attachments/assets/7781a362-9039-44c2-a8a7-7a9e338dbea2" />
 <img width="1809" height="790" alt="image" src="https://github.com/user-attachments/assets/41337b96-1b6a-4bb6-8510-c4b55d53c9fd" />
 <img width="1805" height="663" alt="image" src="https://github.com/user-attachments/assets/8c228d25-ef0e-4526-99b2-9c21a7527ae1" />
 <img width="1807" height="659" alt="image" src="https://github.com/user-attachments/assets/472f2aa7-6c2e-462e-862b-5ac562e793a8" />
