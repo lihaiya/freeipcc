@@ -105,5 +105,7 @@ After purchasing the source code, you can use it for personal or commercial purp
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
-# 🤝欢迎使用我们团队的另一个产品：FreeAIHR，大模型时代下的人力资源系统！
+# 🤝欢迎使用我们团队的另一个产品：FreeAIHR
+
+大模型时代下的人力资源系统：www.freeaihr.com ，该产品不会产生电话诈骗的风险，因此代码全量开源。
 
