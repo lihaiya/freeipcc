@@ -133,3 +133,17 @@ After purchasing the source code, you can use it for personal or commercial purp
 
 Мы используем простые условия лицензионного соглашения:
 После оплаты и покупки исходного кода, вы можете использовать его как для личных, так и для коммерческих целей. После покупки исходного кода мы организуем для вас тренинг по использованию исходного кода.
+
+# 期待你使用我们的其它开源项目：
+
+## 大模型呼叫中心系统：https://github.com/lihaiya/freeipcc
+
+## 大模型人力资源系统：https://github.com/FreeAiHR/FreeAiHR
+
+## 大模型价值投资系统：https://github.com/lihaiya/ValueVerse
+
+## 大模型RPA-Agent系统：https://github.com/lihaiya/maxagent
+
+## 大模型智能运维系统：https://github.com/lihaiya/FreeAiOps
+
+## Redis集群双活架构工具：https://github.com/GouSanDian/Redis-Syncer-HA-Tool
