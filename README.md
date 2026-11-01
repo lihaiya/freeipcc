@@ -27,6 +27,8 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 
 ## 😄项目持续性：呼叫中心行业经验14年，大模型呼叫中心迭代3年以上，企业级开源！一对一对公签合同，持续性、服务更靠谱！另，电诈勿扰！
 
+## 😄中小客户版本：10个坐席以内，可部署一体化版本
+
 ## 📫 How to reach us 📫:
 - 官方WeChat01: freeipcc
 - 官方WeChat02: freeaicc
