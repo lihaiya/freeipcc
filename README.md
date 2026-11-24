@@ -7,6 +7,7 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 ![image](https://github.com/user-attachments/assets/da9ac236-e43b-4b87-8c2a-22068f2a91c8)
 
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！
+## 😄语音底座：FreeSWITCH为底座，非Asterisk等旧平台！
 ## 😄功能完整性：话务系统，工单系统，质检系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## 😄长期目标：疯狂地为社会创造价值，引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
@@ -58,20 +59,15 @@ Call Center，Contact Center，呼叫中心，客服系统，工单系统，智�
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ## 界面截图
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
-![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
-![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
-
-<img width="1799" height="618" alt="image" src="https://github.com/user-attachments/assets/7781a362-9039-44c2-a8a7-7a9e338dbea2" />
-<img width="1809" height="790" alt="image" src="https://github.com/user-attachments/assets/41337b96-1b6a-4bb6-8510-c4b55d53c9fd" />
-<img width="1805" height="663" alt="image" src="https://github.com/user-attachments/assets/8c228d25-ef0e-4526-99b2-9c21a7527ae1" />
-<img width="1807" height="659" alt="image" src="https://github.com/user-attachments/assets/472f2aa7-6c2e-462e-862b-5ac562e793a8" />
-<img width="1810" height="581" alt="image" src="https://github.com/user-attachments/assets/6be27dd9-c9c9-4a17-964e-099996b08abf" />
-<img width="1809" height="917" alt="image" src="https://github.com/user-attachments/assets/0a20e8b1-ce14-4215-acbd-1ec081880458" />
+<img width="1838" height="529" alt="image" src="https://github.com/user-attachments/assets/8ac6ba13-0f77-4371-b832-0b1a0c8635df" />
+<img width="1818" height="624" alt="image" src="https://github.com/user-attachments/assets/4879313b-56bc-4990-943b-aecbaca2e9a2" />
+<img width="1826" height="797" alt="image" src="https://github.com/user-attachments/assets/2854c644-1e81-4dfe-ab2b-7717df248478" />
+<img width="1820" height="920" alt="image" src="https://github.com/user-attachments/assets/faeb8740-2046-49a9-9db7-f554b0ec6d2d" />
+<img width="1832" height="723" alt="image" src="https://github.com/user-attachments/assets/15bbe119-0c25-4000-a396-7e9bfa8742ac" />
+<img width="1852" height="727" alt="image" src="https://github.com/user-attachments/assets/1893f295-0ff5-4c7f-ba96-b84e07b643c6" />
+<img width="1828" height="907" alt="image" src="https://github.com/user-attachments/assets/ed6d78ba-66bd-4c88-b2b6-f8836f804a5c" />
 
 
 
